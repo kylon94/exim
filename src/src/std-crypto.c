@@ -509,12 +509,12 @@ A.1.  ffdhe2048
 */
 static const char dh_ffdhe2048_pem[] =
 "-----BEGIN DH PARAMETERS-----\n"
-"MIH+AoH4DfhUWKK7Spqv3FYgJz088di5xYPOLTaVqeE2QRRkM/vMk53OJJs++X0v\n"
-"42NjDHXY9oGyAq7EYXrT3x7V1f1lYSQz9R9fBm7QhWNlVT3tGvO1VxNef1fJNZhP\n"
-"DHDg5ot34qaJ2vPv6HId8VihNq3nNTCsyk9IOnl6vAqxgrMk+2HRCKlLssjj+7lq\n"
-"2rdg1/RoHU9Co945TfSuVu3nY3K7GQsHp8juCm1wngL84c334uzANATNKDQvYZFy\n"
-"/pzphYP/jk8SMu7ygYPD/jsbTG+tczu1/LwuwiAFxY7xg30Wg7LG80omwbLv+ohr\n"
-"QjhhKFyX//////////8CAQI=\n"
+"MIIBCAKCAQEA//////////+t+FRYortKmq/cViAnPTzx2LnFg84tNpWp4TZBFGQz\n"
+"+8yTnc4kmz75fS/jY2MMddj2gbICrsRhetPfHtXV/WVhJDP1H18GbtCFY2VVPe0a\n"
+"87VXE15/V8k1mE8McODmi3fipona8+/och3xWKE2rec1MKzKT0g6eXq8CrGCsyT7\n"
+"YdEIqUuyyOP7uWrat2DX9GgdT0Kj3jlN9K5W7edjcrsZCwenyO4KbXCeAvzhzffi\n"
+"7MA0BM0oNC9hkXL+nOmFg/+OTxIy7vKBg8P+OxtMb61zO7X8vC7CIAXFjvGDfRaD\n"
+"ssbzSibBsu/6iGtCOGEoXJf//////////wIBAg==\n"
 "-----END DH PARAMETERS-----\n";
 
 /*
